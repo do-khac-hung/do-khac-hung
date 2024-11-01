@@ -42,7 +42,7 @@
       alt="java"/> 
   </a>
   <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/C%20programming-A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white"
+    <img src="https://img.shields.io/badge/C%20programming-A8B9CC.svg?style=for-the-badge&logo=c#&logoColor=white"
       alt="c#"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
@@ -122,8 +122,8 @@
 
 ### Database:
 
-![Oracle](https://img.shields.io/badge/Oracle-4479A1?style=for-the-badge&logo=Oracle&logoColor=white)&nbsp;
-![SQL Server](https://img.shields.io/badge/Oracle-4479A1?style=for-the-badge&logo=Oracle&logoColor=white)&nbsp;
+![Oracle](https://img.shields.io/badge/Oracle-DC382D?style=for-the-badge&logo=Oracle&logoColor=white)&nbsp;
+![SQL-Server](https://img.shields.io/badge/SQL-Server-4479A1?style=for-the-badge&logo=SQL-Server&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white)&nbsp;
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white)&nbsp;
